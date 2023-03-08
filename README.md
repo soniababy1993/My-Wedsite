@@ -1,2 +1,2 @@
-# My-Wedsite
+# My-Website
 MY WEBSITE
